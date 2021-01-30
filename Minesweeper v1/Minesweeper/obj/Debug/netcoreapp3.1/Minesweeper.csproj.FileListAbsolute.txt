@@ -1,0 +1,13 @@
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.exe
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.deps.json
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.json
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.dev.json
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.dll
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.pdb
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csprojAssemblyReference.cache
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfoInputs.cache
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfo.cs
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csproj.CoreCompileInputs.cache
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.dll
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.pdb
+E:\.creaters\C# Projects\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.genruntimeconfig.cache
